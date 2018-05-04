@@ -1,0 +1,13 @@
+C:\Users\Cyberdyn\source\repos\TpB2B\TpB2B\bin\Debug\TpB2B.exe.config
+C:\Users\Cyberdyn\source\repos\TpB2B\TpB2B\bin\Debug\TpB2B.exe
+C:\Users\Cyberdyn\source\repos\TpB2B\TpB2B\bin\Debug\TpB2B.pdb
+C:\Users\Cyberdyn\source\repos\TpB2B\TpB2B\obj\Debug\TpB2B.frmMDI.resources
+C:\Users\Cyberdyn\source\repos\TpB2B\TpB2B\obj\Debug\TpB2B.Properties.Resources.resources
+C:\Users\Cyberdyn\source\repos\TpB2B\TpB2B\obj\Debug\TpB2B.csproj.GenerateResource.cache
+C:\Users\Cyberdyn\source\repos\TpB2B\TpB2B\obj\Debug\TpB2B.csproj.CoreCompileInputs.cache
+C:\Users\Cyberdyn\source\repos\TpB2B\TpB2B\obj\Debug\TpB2B.exe
+C:\Users\Cyberdyn\source\repos\TpB2B\TpB2B\obj\Debug\TpB2B.pdb
+C:\Users\Cyberdyn\source\repos\TpB2B\TpB2B\obj\Debug\TpB2B.frmListeClients.resources
+C:\Users\Cyberdyn\source\repos\TpB2B\TpB2B\obj\Debug\TpB2B.frmNvxClient.resources
+C:\Users\Cyberdyn\source\repos\TpB2B\TpB2B\obj\Debug\TpB2B.csprojResolveAssemblyReference.cache
+C:\Users\Cyberdyn\source\repos\TpB2B\TpB2B\obj\Debug\TpB2B.frmNvxContact.resources
